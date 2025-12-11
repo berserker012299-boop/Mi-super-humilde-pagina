@@ -2,3 +2,10 @@ h1 {
     color : gray;
     text-align : center;
 }
+
+p {
+    font-family : Arial, sans-serif;
+    font-size : 20px;
+    background-color : salmon;
+    text-align : center;
+}
